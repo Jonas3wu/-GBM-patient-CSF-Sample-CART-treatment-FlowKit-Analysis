@@ -1,5 +1,6 @@
 ## Acknowledgements
-This workflow is based on the FlowKit toolkit developed by whitews. Special thanks to the original authors for their open-source contributions to flow cytometry analysis. 
+This workflow is based on the [FlowKit](https://github.com/whitews/FlowKit) toolkit developed by **whitews**. 
+Special thanks to the original authors for their open-source contributions to flow cytometry analysis.
 
 ## change made
 tailored the Python script from the original repo, and used it for analysis of GBM patient sample, identified and quntified cell clusters including CAR-T cells; showed marker expression level on cell types.
